@@ -1,5 +1,5 @@
 # lowfield_spiral_sms_cine
-This is the repository for code used in the paper "*Tian et al. Contrast-optimal simultaneous multi-slice (SMS) bSSFP cine cardiac imaging at 0.55 Tesla. Magn Reson Med. *": https://onlinelibrary.wiley.com/doi/10.1002/mrm.29472 
+This is the repository for code used in the paper *Tian et al. Contrast-optimal simultaneous multi-slice (SMS) bSSFP cine cardiac imaging at 0.55 Tesla. Magn Reson Med. *: https://onlinelibrary.wiley.com/doi/10.1002/mrm.29472 
 
 ## Citation
 Please cite this paper if you use the code in this repository:
